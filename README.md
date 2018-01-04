@@ -17,3 +17,5 @@ Kinaan Aamir
 "_weights-improvement-02-1.2280.hdf5" is a weights file that contains the tuned weights for our ResNet50 model
 # tranfer-learn.ipynb
 "tranfer_learn.ipynb" is an ipython notebook that contains the code of transfer learning and fine tuning the InceptionV3 model
+# weights-improvement-05-0.9795.hdf5
+"weights-improvement-05-0.9795.hdf5" is a weights file that contains the tuned weights for our InceptionV3 model
