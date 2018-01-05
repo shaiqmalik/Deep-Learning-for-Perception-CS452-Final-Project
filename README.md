@@ -19,3 +19,5 @@ Kinaan Aamir
 "tranfer_learn.ipynb" is an ipython notebook that contains the code of transfer learning and fine tuning the InceptionV3 model
 # weights-improvement-05-0.9795.hdf5
 "weights-improvement-05-0.9795.hdf5" is a weights file that contains the tuned weights for our InceptionV3 model
+# LinkForWeights.txt
+"LinkForWeights.txt" contains the link to the weight files fo both the models. 
