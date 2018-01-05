@@ -20,4 +20,4 @@ Kinaan Aamir
 # weights-improvement-05-0.9795.hdf5
 "weights-improvement-05-0.9795.hdf5" is a weights file that contains the tuned weights for our InceptionV3 model
 # LinkForWeights.txt
-"LinkForWeights.txt" contains the link to the weight files fo both the models. 
+"LinkForWeights.txt" contains the link to download the weight files fo both the models. 
